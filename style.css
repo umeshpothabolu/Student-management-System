@@ -1,0 +1,53 @@
+body{
+font-family: Arial;
+background:#f4f4f4;
+text-align:center;
+}
+
+h1{
+background:#007bff;
+color:white;
+padding:15px;
+}
+
+.container{
+margin:20px;
+}
+
+input{
+padding:10px;
+margin:5px;
+width:200px;
+}
+
+button{
+padding:10px 20px;
+background:#28a745;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+table{
+margin:auto;
+width:70%;
+border-collapse:collapse;
+background:white;
+}
+
+th,td{
+padding:10px;
+border:1px solid #ccc;
+}
+
+th{
+background:#007bff;
+color:white;
+}
+
+.delete{
+background:red;
+padding:5px 10px;
+color:white;
+cursor:pointer;
+}
